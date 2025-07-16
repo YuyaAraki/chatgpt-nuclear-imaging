@@ -15,3 +15,6 @@ Open the notebook from the [Open In Colab] and do the following in this order.
 3.Selecting a gpt model
 
 3.In IMAGE_PATH1, put the path to the folder where the nuclear medicine images are located.
+
+## License
+chatgpt-nuclear-imaging is under [Apache-2.0 License](/LICENSE)
